@@ -1,6 +1,6 @@
 
 
-<img src="img/bachelorvictor.jpg" alt="Victor Glowinski" style="width:160px;border-radius:999px;">
+<img src="img/bachelorvictor.jpg" alt="Victor Glowinski">
 
 
 # Victor Glowinski — Portfolio
