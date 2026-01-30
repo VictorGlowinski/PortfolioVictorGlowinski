@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 <img src="{{ '/img/bachelorvictor.jpg' | relative_url }}" alt="Victor Glowinski" class="avatar">
 
