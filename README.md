@@ -89,8 +89,8 @@ Accueil, orientation, gestion du flux, coordination avec l’équipe, respect de
 ---
 
 ## 📫 Contact
-- LinkedIn : *(lien à ajouter)*
-- Email : *(adresse à ajouter)*
+- LinkedIn : www.linkedin.com/in/victor-glowinski
+- Email : victor.glwns@gmail.com
 - CV : *(lien à ajouter si disponible)*
 
 ---
