@@ -5,7 +5,7 @@
 
 # Victor Glowinski — Portfolio
 
-Étudiant en fin de Bachelor **Informatique de gestion (HEG Genève)** · Développeur **Full-Stack junior**  
+**Informatique de gestion** - **Bachelor of Science Haute Ecole de Gestion Genève** 
 J’aime construire des produits utiles, bien structurés, et les relier au réel (données, métier, utilisateurs) — avec un gros intérêt pour la **sport-tech** et l’**IA**.
 
 ---
