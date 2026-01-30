@@ -1,6 +1,6 @@
 
 
-<img src="{{ 'img/bachelorvictor.jpg'}}" alt="Victor Glowinski" class="avatar">
+<img src="{{ 'bachelorvictor.jpg'}}" alt="Victor Glowinski" class="avatar">
 
 # Victor Glowinski — Portfolio
 
