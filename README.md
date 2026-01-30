@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<img src="{{ '/img/bachelorvictor.jpg' | relative_url }}" alt="Victor Glowinski" class="avatar">
+
 # Victor Glowinski — Portfolio
 
 Étudiant en fin de Bachelor **Informatique de gestion (HEG Genève)** · Développeur **Full-Stack junior**  
