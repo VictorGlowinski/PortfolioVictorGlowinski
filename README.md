@@ -42,7 +42,7 @@ Reprise d’une plateforme web gamifiée pour l’apprentissage de **Scrum** (é
 - **Mission :** rendre la plateforme accessible à tous simultanément (hébergement) + automatiser une partie du flux (retours, validation, accompagnement)
 - **Tech :** Vue.js · Django · PostgreSQL · déploiement/ops sur environnement école
 
-➡️ Repo : `scrum-serious-game` — *(lien à ajouter)*
+➡️ Repo : `scrum-serious-game` — https://github.com/Maxime-km/ProAgilis.git
 
 ---
 
