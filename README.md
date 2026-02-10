@@ -36,7 +36,7 @@ Prototype d’application (mobile + backend) qui génère des plans personnalis�
 
 ---
 
-### 🎮 Serious Game Scrum — Reprise & industrialisation d’une plateforme pédagogique
+### 🎮 ProAgils  (Serious Game Scrum) — Reprise & industrialisation d’une plateforme pédagogique
 Reprise d’une plateforme web gamifiée pour l’apprentissage de **Scrum** (étudiants 1ère année HEG), initialement en phases validées par un professeur.
 
 - **Mission :** rendre la plateforme accessible à tous simultanément (hébergement) + automatiser une partie du flux (retours, validation, accompagnement)
@@ -59,9 +59,9 @@ Mise en pratique de pipelines et d’outils d’industrialisation autour de proj
 ## 🧩 Compétences
 
 **Développement**
-- Frontend : JavaScript/TypeScript · **Vue.js** · notions Angular · UI/UX pragmatique
+- Frontend : JavaScript/TypeScript · **Vue.js** · C#/.NET · UI/UX pragmatique
 - Mobile : **React Native**
-- Backend : **PHP (Laravel)** · Python (Django) · APIs REST · auth & sécurité basique
+- Backend : **PHP (Laravel)** · Python (Django) · Java (SpingBoot & Quarkus)· APIs REST · auth & sécurité basique
 - Données : SQL · **PostgreSQL / MySQL** · modélisation relationnelle
 
 **Qualité & collaboration**
