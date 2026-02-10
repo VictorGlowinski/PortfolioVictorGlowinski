@@ -29,10 +29,7 @@ Prototype d’application (mobile + backend) qui génère des plans personnalis�
 - **Tech :** React Native · Backend **PHP (Laravel)** · API REST · MySQL/PostgreSQL (selon env) · Intégration LLM
 - **Livrables :** mémoire de recherche + prototype + éléments de validation utilisateur
 
-➡️ Repo(s) :  
-- `kinesis-mobile` — *(lien à ajouter)*  
-- `kinesis-backend` — *(lien à ajouter)*  
-- `kinesis-thesis` — *(lien à ajouter, si public)*
+➡️ Repo(s) : <a href="https://github.com/Maxime-km/ProAgilis.git" class="btn"> https://github.com/VictorGlowinski/TravailBachelorVictorGlowinski.git </a>
 
 ---
 
@@ -89,8 +86,8 @@ Accueil, orientation, gestion du flux, coordination avec l’équipe, respect de
 ---
 
 ## 📫 Contact
-- LinkedIn : www.linkedin.com/in/victor-glowinski
-- Email : victor.glwns@gmail.com
+- LinkedIn :  <a href="cv/CV - Victor Glowinski.pdf" class="btn"> www.linkedin.com/in/victor-glowinski </a>
+- Email : <a href="cv/CV - Victor Glowinski.pdf" class="btn"> victor.glwns@gmail.com  </a>
 - CV :<a href="cv/CV - Victor Glowinski.pdf" class="btn"> Télécharger mon CV </a>
 
 ---
