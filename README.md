@@ -42,6 +42,12 @@ Reprise d’une plateforme web gamifiée pour l’apprentissage de **Scrum** (é
 ➡️ Repo : `scrum-serious-game` — <a href="https://github.com/Maxime-km/ProAgilis.git" class="btn">https://github.com/Maxime-km/ProAgilis.git</a>
 
 ---
+https://github.com/VictorGlowinski/HealthRun.git
+`Projet HealthRun` — <a href="https://github.com/VictorGlowinski/HealthRun.git" class="btn">https://github.com/VictorGlowinski/HealthRun.git</a>
+
+
+---
+
 
 ### ⚙️ DevOps & Cloud — CI/CD, conteneurs et observabilité (projets académiques)
 Mise en pratique de pipelines et d’outils d’industrialisation autour de projets web.
