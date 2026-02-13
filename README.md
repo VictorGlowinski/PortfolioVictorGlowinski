@@ -21,7 +21,7 @@ Mon fil rouge : transformer un besoin métier en une solution logicielle propre,
 
 ## 🚀 Projets phares
 
-### 🧠 KINESIS — Générateur de plans d’entraînement (triathlon) assisté par LLM
+### 🧠 KINESIS — Générateur de plans d’entraînement en triathlon assisté par LLM
 Prototype d’application (mobile + backend) qui génère des plans personnalisés pour des triathlètes en reprise / prévention des blessures, en intégrant des données **physiologiques, médicales et personnelles**.
 
 - **Objectif :** personnalisation + sécurité (progressivité, prévention, contraintes individuelles)
@@ -42,8 +42,14 @@ Reprise d’une plateforme web gamifiée pour l’apprentissage de **Scrum** (é
 ➡️ Repo : `scrum-serious-game` — <a href="https://github.com/Maxime-km/ProAgilis.git" class="btn">https://github.com/Maxime-km/ProAgilis.git</a>
 
 ---
-https://github.com/VictorGlowinski/HealthRun.git
-`Projet HealthRun` — <a href="https://github.com/VictorGlowinski/HealthRun.git" class="btn">https://github.com/VictorGlowinski/HealthRun.git</a>
+### HealthRun — Développement d'un client lourd
+Prototype de client lourd qui permet de selectionner des plans sportifs personnalisés. Les utilisateurs peuvent poster leurs activités et y laisser des commentaires.
+
+- **Objectif :** personnalisation de plans sportifs selon les envies de l'utilisateur
+- **Fonctionnalités :** Ajout, modification, lecture et supression de données en base
+- **Tech : Frontend ** C#/.NET · Backend **PHP (Laravel)** · API REST · MySQL · XAMPP
+- **Livrables :** Modèle logique de données · Frontend · Backend · Vidéo démonstrative du Frontend
+➡️ Repo(s) : `Projet HealthRun` — <a href="https://github.com/VictorGlowinski/HealthRun.git" class="btn">https://github.com/VictorGlowinski/HealthRun.git</a>
 
 
 ---
@@ -62,10 +68,11 @@ Mise en pratique de pipelines et d’outils d’industrialisation autour de proj
 ## 🧩 Compétences
 
 **Développement**
-- Frontend : JavaScript/TypeScript · **Vue.js** · C#/.NET · UI/UX pragmatique
+- Frontend : JavaScript/TypeScript · **Vue.js** · C#/.NET · React Native · UI/UX pragmatique 
 - Mobile : **React Native**
-- Backend : **PHP (Laravel)** · Python (Django) · Java (SpingBoot & Quarkus)· APIs REST · auth & sécurité basique
-- Données : SQL · **PostgreSQL / MySQL** · modélisation relationnelle
+- Backend : **PHP (Laravel)** · Python (Django) · Java (SpingBoot & Quarkus)· APIs REST
+- Données : SQL · **PostgreSQL / MySQL / PL/SQL** · modélisation relationnelle & non relationnelle · MongoDB · Neo4j · Redis
+- DevOps : Docker · Ansible · Kubernetese · Git · Promotheus & Grafana
 
 **Qualité & collaboration**
 - Git (workflow, branches, PR) · revue de code
@@ -92,8 +99,8 @@ Accueil, orientation, gestion du flux, coordination avec l’équipe, respect de
 ---
 
 ## 📫 Contact
-- LinkedIn :  <a href="cv/CV - Victor Glowinski.pdf" class="btn"> www.linkedin.com/in/victor-glowinski </a>
-- Email : <a href="cv/CV - Victor Glowinski.pdf" class="btn"> victor.glwns@gmail.com  </a>
+- LinkedIn :  <a href="www.linkedin.com/in/victor-glowinski" class="btn"> www.linkedin.com/in/victor-glowinski </a>
+- Email : <a> victor.glwns@gmail.com  </a>
 - CV :<a href="cv/CV - Victor Glowinski.pdf" class="btn"> Télécharger mon CV </a>
 
 ---
