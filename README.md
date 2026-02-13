@@ -49,6 +49,7 @@ Prototype de client lourd qui permet de selectionner des plans sportifs personna
 - **Fonctionnalités :** Ajout, modification, lecture et supression de données en base
 - **Tech : Frontend ** C#/.NET · Backend **PHP (Laravel)** · API REST · MySQL · XAMPP
 - **Livrables :** Modèle logique de données · Frontend · Backend · Vidéo démonstrative du Frontend
+
 ➡️ Repo(s) : `Projet HealthRun` — <a href="https://github.com/VictorGlowinski/HealthRun.git" class="btn">https://github.com/VictorGlowinski/HealthRun.git</a>
 
 
