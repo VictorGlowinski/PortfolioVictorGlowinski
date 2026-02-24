@@ -83,6 +83,17 @@ Voici un descriptifs des outils utilisés en cours et comment nous les avons uti
 - Git (workflow, branches, PR) · revue de code
 - Tests (selon projets) · documentation · approche itérative
 - Sens produit : priorisation, clarté, simplicité
+- Analyse d’application existante
+- Développement web, mobile et logiciels
+- Reprise et amélioration de plateforme web
+- Déploiement et exploitation d’applications sur des serveurs distants
+- Automatisation de processus métier
+- Génération de programme sportif pour le triathlon via LLM
+- Conception d’architecture
+- Analyse des besoins clients
+- Etablissement de documentation
+- Pratique DevOps
+
 
 **Langues**
 - Français · Allemand · Anglais (B2)
