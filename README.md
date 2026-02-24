@@ -58,11 +58,15 @@ Prototype de client lourd qui permet de selectionner des plans sportifs personna
 
 ### ⚙️ DevOps & Cloud — CI/CD, conteneurs et observabilité (projets académiques)
 Mise en pratique de pipelines et d’outils d’industrialisation autour de projets web.
+Voici un descriptifs des outils utilisés en cours et comment nous les avons utilisés :
+- Ansible : Les exercices consistent à écrire un playbook qui installe Nginx, le versionner dans un projet “Ansible” (fichier exercice1.yaml), puis créer un inventaire listant des VPS et exécuter le playbook. Ensuite, on enrichit le playbook (variables, boucles, handler + template de conf Nginx) et on lance l’exécution via une pipeline CI/CD (avec IP publique et firewall côté VPS).
+- ExerciceCICD : Les exercices demandent de créer un projet “CI-CD-1” sur GitLab avec une branche par exercice, en fournissant Dockerfile/docker-compose.yml, gitlab-ci.yml et un README, puis de builder une image Docker et la pousser dans le registry du projet. Ensuite, on fait évoluer la pipeline pour déployer l’image sur un serveur Linux via SSH, puis pour une version multi-conteneurs (app + db) déployée via docker-compose. 
+- ExerciceDocker : Les exercices te font créer un projet “Dockers” (une branche par exercice) et démarrer par la création d’une image via Dockerfile (Apache + page HTML), puis la gestion des tags/versions et le push d’images vers un registre. Ensuite, tu pratiques les volumes (données hors conteneur), les réseaux Docker (WordPress + MariaDB) et un docker-compose.yml pour lancer une application multi-services.
+- Kubernetese :  Installation de Minikube et kubectl, puis exploration du cluster (nodes/pods/services) et du dashboard. Ensuite, on déploies une app via deployment.yaml + service.yaml, puis on teste l’accès, le scaling et les mises à jour.
+- Monitoring (Promotheus & Grafana) : L’exercice demande de créer un projet “Monitoring” et d’écrire un docker-compose.yml qui déploie Prometheus, Grafana et un Node Exporter. Ensuite, on configure Prometheus pour scraper les métriques, puis Grafana pour les visualiser avec au moins un dashboard “système” et un dashboard “docker”.
+- **Déploiement :** environnements cloud chez Hidora
 
-- **Outils :** Git/GitLab · Docker · CI/CD · Kubernetes · Ansible · Grafana · Prometheus
-- **Déploiement :** environnements cloud (ex. provider suisse)
-
-➡️ Repo : `devops-labs` — *(lien à ajouter)*
+➡️ Repo : `devops-labs` — <a href="https://github.com/VictorGlowinski/DevOps.git" class="btn">https://github.com/VictorGlowinski/DevOps.git</a>
 
 ---
 
